@@ -163,7 +163,7 @@ h1{
   
   margin-left: 900px;
   transition: 0.5s;
-  margin-top: 300px;
+  /* margin-top: 300px; */
 }
 .image-container img:hover{
   transform: scale(1);
